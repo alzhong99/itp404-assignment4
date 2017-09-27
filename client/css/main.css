@@ -1,0 +1,27 @@
+/* {
+  border: 1px solid black;
+}*/
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.repo {
+  margin: 20px;
+}
+
+#search-results {
+  width: 55%;
+  position: relative;
+  float: left;
+  padding: 0 20px;
+}
+
+#search-panel {
+  width:35%;
+  height: 100%;
+  position: relative;
+  float: right;
+  padding: 10px 20px;
+  border-left: 1px solid black;
+}
